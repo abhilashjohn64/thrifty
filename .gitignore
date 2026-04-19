@@ -1,0 +1,18 @@
+# Python build artifacts
+*.egg-info/
+__pycache__/
+*.pyc
+*.pyo
+dist/
+build/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Claude Code local state
+.claude/
+
+# Test cache
+.pytest_cache/
